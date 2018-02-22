@@ -1,31 +1,31 @@
-Create table cliente (
-    Cod_cliente     number(5) not null,
-    Nom_cliente     varchar2(30) not null,
-    Ind_Sexo        varchar2(1) not null,
+CREATE TABLE cliente (
+    Cod_cliente     number(5) NOT NULL,
+    Nom_cliente     varchar2(30) NOT NULL,
+    Ind_Sexo        varchar2(1) NOT NULL,
     Num_telefone    varchar2(11),
     Des_endereco    varchar2(30) 
 );
 
-alter table cliente 
-      add constraint pk_cliente 
-      primary key (Cod_cliente); 
+ALTER TABLE cliente 
+      ADD CONSTRAINT pk_cliente 
+      PRIMARY KEY (Cod_cliente); 
       
-alter table cliente 
-      add (num_celular varchar2(11) not null);
+ALTER TABLE cliente 
+      ADD (Num_celular varchar2(11) NOT NULL);
 
-insert into cliente values (12345, 'Clarêncio Esclarecido', 'M', '12345678', 'Rua Escura 666', '987654321');
+INSERT INTO cliente VALUES (12345, 'Clarêncio Esclarecido', 'M', '12345678', 'Rua Escura 666', '987654321');
 
-select * from cliente;
+SELECT * FROM cliente;
 
-alter table cliente add(RG varchar2(11));
-alter table cliente add(CPF varchar2(11));
+ALTER TABLE cliente ADD(RG varchar2(11));
+ALTER TABLE cliente ADD(CPF varchar2(11));
 
-alter table cliente modify (cpf not null); -- Se houver ao menos um campo nulo na tabela, esse comando falha.
+ALTER TABLE cliente MODIFY (CPF NOT NULL); -- Se houver ao menos um campo nulo na tabela, esse comando falha.
 
 update cliente set CPF = '1234567890';
 
-alter table cliente modify (cpf not null); -- Agora funciona.
+ALTER TABLE cliente MODIFY (CPF NOT NULL); -- Agora funciona.
 
 select * from cliente;
 
-desc cliente;
+DESC cliente;
