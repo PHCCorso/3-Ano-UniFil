@@ -22,10 +22,10 @@ ALTER TABLE cliente ADD(CPF varchar2(11));
 
 ALTER TABLE cliente MODIFY (CPF NOT NULL); -- Se houver ao menos um campo nulo na tabela, esse comando falha.
 
-update cliente set CPF = '1234567890';
+UPDATE cliente SET CPF = '1234567890';
 
 ALTER TABLE cliente MODIFY (CPF NOT NULL); -- Agora funciona.
 
-select * from cliente;
+SELECT * FROM cliente;
 
 DESC cliente;
