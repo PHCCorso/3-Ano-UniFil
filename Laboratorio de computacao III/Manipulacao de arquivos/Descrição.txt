@@ -1,1 +1,2 @@
-Implementar um programa que leia o arquivo dataset01.csv, e quebre o arquivo em dois arquivos de acordo com o genero da pessoa. Além disso, dentro de cada arquivo, as linhas devem estar ordenadas de acordo com o país. O id deve ser gerado novamente.
+Implementar um programa que leia o arquivo dataset01.csv, e quebre o arquivo em dois arquivos de acordo com o genero da pessoa.
+Além disso, dentro de cada arquivo, as linhas devem estar ordenadas de acordo com o país. O id deve ser gerado novamente.
