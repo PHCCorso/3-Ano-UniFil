@@ -78,6 +78,8 @@
 
 +++
 
+#### Fontes
+
 - https://testing.googleblog.com/2016/10/hackable-projects-pillar-2-debuggability.html
 - https://testing.googleblog.com/2016/11/hackable-projects-pillar-3.html
 - https://www.linkedin.com/learning/spring-test-driven-development-with-junit
