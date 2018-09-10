@@ -37,12 +37,15 @@
 @ul
 
 - Em geral, é recomendável 80% de cobertura de código;
-- 
+- Normalmente, a maioria dos bugs se concentra em 20% da base de código (as partes mais cruciais);
+- Métodos que são utilizados com frequência devem ter maior atenção nos testes;
+- Métodos que envolvem regras de negócio mais complexas;
+- Talvez não valha a pena testar métodos simples demais.
 
 @ulend
 
 ---
 
-## Goodbye!
+#### Tamanho dos testes
 
 ![Pirâmide de testes](https://2.bp.blogspot.com/-YTzv_O4TnkA/VTgexlumP1I/AAAAAAAAAJ8/57-rnwyvP6g/s1600/image02.png)
