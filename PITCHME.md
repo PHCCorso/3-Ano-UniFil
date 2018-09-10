@@ -1,6 +1,6 @@
 #### Introdução a testes em softwares Java
 
-![Bug fixing](https://i.imgur.com/GbmAYxO.gif)
+---https://i.imgur.com/GbmAYxO.gif&size=auto 90%
 
 
 ---
