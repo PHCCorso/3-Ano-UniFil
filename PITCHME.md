@@ -52,8 +52,6 @@
 
 ---?image=https://3.bp.blogspot.com/-oBuMTeOYhww/V_0IswR5HKI/AAAAAAAAAO0/8jxV5oWkr-ErKGmavjvlRlkVpcGbhnWTACLcB/s1600/img3.png&size=contain
 
----
-
 ---?image=https://4.bp.blogspot.com/-TnsfrijE-HQ/WCTDKNXmWeI/AAAAAAAAAPc/3J0OEpWIMegHrhD4XCMnwaRoUd6qUILQwCLcB/s1600/image07.png&size=contain
 
 ---
@@ -77,6 +75,11 @@
 - https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html
 - https://testing.googleblog.com/2010/12/test-sizes.html
 - https://testing.googleblog.com/2016/08/hackable-projects.html
+
++++
+
 - https://testing.googleblog.com/2016/10/hackable-projects-pillar-2-debuggability.html
 - https://testing.googleblog.com/2016/11/hackable-projects-pillar-3.html
 - https://www.linkedin.com/learning/spring-test-driven-development-with-junit
+
+
