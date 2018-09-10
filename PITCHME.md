@@ -10,7 +10,7 @@
 @ul
 
 - Testes **não foram feitos** primariamente para encontrar bugs;
-- Eles são uma maneira de **forçar um padrão de design**;
+- Eles são uma maneira de **forçar uma saída esperada**;
 - Eles ajudam o desenvolvedor a **não perder o foco** nas funcionalidades que devem ser implementadas.
 
 @ulend
@@ -39,7 +39,8 @@
 - Em geral, é recomendável 80% de cobertura de código;
 - Normalmente, a maioria dos bugs se concentra em 20% da base de código (as partes mais cruciais);
 - Métodos que são chamados frequentemente devem ter maior atenção nos testes;
-- Talvez não valha a pena testar métodos simples demais.
+- Talvez não valha a pena testar métodos simples demais;
+- Teste o **seu** código.
 
 @ulend
 
@@ -49,6 +50,8 @@
 
 ![Pirâmide de testes](https://2.bp.blogspot.com/-YTzv_O4TnkA/VTgexlumP1I/AAAAAAAAAJ8/57-rnwyvP6g/s1600/image02.png)
 
+---?image=https://3.bp.blogspot.com/-oBuMTeOYhww/V_0IswR5HKI/AAAAAAAAAO0/8jxV5oWkr-ErKGmavjvlRlkVpcGbhnWTACLcB/s1600/img3.png
+
 ---
 
 #### Frameworks de teste
@@ -57,3 +60,5 @@
 - Mockito;
 - Spring Test;
 - DBUnit.
+
+
