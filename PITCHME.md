@@ -1,11 +1,20 @@
-### Introdução a testes em softwares Java
+#### Introdução a testes em softwares Java
 <sub><sup><sup>Utilizando Spring MVC</sup></sup></sub>
 
 ---?image=https://i.imgur.com/GbmAYxO.gif&size=auto 90%
 
 ---
 
+#### Por que testar?
 
+@ul
+- Gratificação instantânea;
+- Força a modularização do código;
+- Oferece segurança nas refatorações;
+- Documentação *viva*;
+- Te faz pensar no código com mais cuidade;
+- Deixa o seu chefe feliz.
+@ulend
 
 ---
 
