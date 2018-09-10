@@ -50,7 +50,7 @@
 
 ![Pirâmide de testes](https://2.bp.blogspot.com/-YTzv_O4TnkA/VTgexlumP1I/AAAAAAAAAJ8/57-rnwyvP6g/s1600/image02.png)
 
----?image=https://3.bp.blogspot.com/-oBuMTeOYhww/V_0IswR5HKI/AAAAAAAAAO0/8jxV5oWkr-ErKGmavjvlRlkVpcGbhnWTACLcB/s1600/img3.png
+---?image=https://3.bp.blogspot.com/-oBuMTeOYhww/V_0IswR5HKI/AAAAAAAAAO0/8jxV5oWkr-ErKGmavjvlRlkVpcGbhnWTACLcB/s1600/img3.png&size=contain
 
 ---
 
