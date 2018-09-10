@@ -5,13 +5,13 @@
 
 ---
 
-#### Para que servem os testes
+#### Para que servem os testes?
 
 @ul
 
 - Testes **não foram feitos** primariamente para encontrar bugs;
 - Eles são uma maneira de **forçar um padrão de design**;
-- Eles ajudam o desenvolvedor a não se desviar das funcionalidades que devem ser implementadas.
+- Eles ajudam o desenvolvedor a **não perder o foco** nas funcionalidades que devem ser implementadas.
 
 @ulend
 
