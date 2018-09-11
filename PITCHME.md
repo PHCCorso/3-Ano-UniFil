@@ -28,10 +28,10 @@
 
 #### Quanto testar?
 
-- Em geral, é recomendável 80% de cobertura de código;
-- O ideal seria obter 100% de cobertura;
-- Normalmente, a maioria dos bugs se concentra em 20% da base de código (código crítico);
-- Logo, deve haver **no mínimo 100% de cobertura** do código crítico do sistema (equivalente a 20% de cobertura).
+- Em geral, uma média de 80% de cobertura de código é o suficiente;
+- O ideal seria atingir os 100%;
+- A maioria dos bugs se concentra em 20% da base de código (código crítico);
+- Logo, deve haver **no mínimo 100% de cobertura** do código crítico do sistema.
 
 ---
 
