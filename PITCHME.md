@@ -62,14 +62,15 @@
 #### Fontes
 
 - https://testing.googleblog.com/2009/07/by-shyam-seshadri-nowadays-when-i-talk.html
+- https://www.crn.com/news/security/18821726/microsofts-ceo-80-20-rule-applies-to-bugs-not-just-features.htm
 - https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html
 - https://testing.googleblog.com/2010/12/test-sizes.html
-- https://testing.googleblog.com/2016/08/hackable-projects.html
 
 +++
 
 #### Fontes
 
+- https://testing.googleblog.com/2016/08/hackable-projects.html
 - https://testing.googleblog.com/2016/10/hackable-projects-pillar-2-debuggability.html
 - https://testing.googleblog.com/2016/11/hackable-projects-pillar-3.html
 - https://www.linkedin.com/learning/spring-test-driven-development-with-junit
