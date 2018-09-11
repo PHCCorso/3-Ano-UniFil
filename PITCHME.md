@@ -26,13 +26,21 @@
 
 ---
 
-#### O que testar?
+#### Quanto testar?
 
 - Em geral, é recomendável 80% de cobertura de código;
-- Normalmente, a maioria dos bugs se concentra em 20% da base de código (as partes mais cruciais);
-- Métodos que são chamados frequentemente devem ter maior atenção nos testes;
+- O ideal seria obter 100% de cobertura;
+- Normalmente, a maioria dos bugs se concentra em 20% da base de código (código crítico);
+- Logo deve haver, **no mínimo**, 100% de cobertura do código crítico do sistema (equivalente a 20% de cobertura);
+
+---
+
+#### O que testar?
+
+- Como já foi dito, teste primeiro o **código crítico**;
 - Talvez não valha a pena testar métodos simples demais;
-- Teste o **seu** código.
+- Teste o **seu** código (*first-party code*);
+- Os testes devem ser **representativos** (devem conter **valor**);
 
 ---
 
