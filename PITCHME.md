@@ -7,19 +7,15 @@
 
 #### Para que servem os testes?
 
-@ul
 
 - Testes **não foram feitos** primariamente para encontrar bugs;
 - Eles são uma maneira de **forçar uma saída esperada**;
 - Eles ajudam o desenvolvedor a **não perder o foco** nas funcionalidades que devem ser implementadas.
 
-@ulend
 
 ---
 
 #### Por que testar?
-
-@ul
 
 - Gratificação instantânea;
 - Força a modularização do código;
@@ -28,21 +24,15 @@
 - Te faz pensar no código com mais cuidado;
 - Deixa o seu chefe feliz.
 
-@ulend
-
 ---
 
 #### O que testar?
-
-@ul
 
 - Em geral, é recomendável 80% de cobertura de código;
 - Normalmente, a maioria dos bugs se concentra em 20% da base de código (as partes mais cruciais);
 - Métodos que são chamados frequentemente devem ter maior atenção nos testes;
 - Talvez não valha a pena testar métodos simples demais;
 - Teste o **seu** código.
-
-@ulend
 
 ---
 
